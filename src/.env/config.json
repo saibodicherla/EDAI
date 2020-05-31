@@ -1,0 +1,5 @@
+{
+    "storage": "Kirill",
+    "storageError": "invalid/key",
+    "apiEndPoint": "http://167.172.108.61/?storage="
+}
