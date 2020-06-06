@@ -40,3 +40,37 @@ yarn install then yarn start
 ```
 
 This will run the development server in your local host (http://localhost:3000)
+
+
+
+
+
+
+
+# 🚚 Setting up the project
+
+Prerequisites:- 
+
+1. Node - *[Installation](https://nodejs.org/en/)*
+2. React - *[Guide](https://reactjs.org/docs/getting-started.html)*
+
+***Run Locally (Installation Steps)*** 
+
+1. Clone the repo on your local machine:
+
+```bash
+> https://github.com/saibodicherla/EDAI.git
+```
+
+2.  Navigate into  EDAI folder and do yarn install:
+
+```bash
+> cd EDAI
+> yarn install
+```
+
+3. Run the project will appear on localhost:3000 :
+
+```bash
+> yarn start
+```
