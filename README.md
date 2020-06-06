@@ -25,28 +25,6 @@ Here are the available methods:
 - DELETE http://167.172.108.61/?storage=%namespace% to delete all messages
 
 
-
-## How to Run the Application
-
-
-```bash
-npm install then npm start
-```
-
-or using Yarn
-
-```bash
-yarn install then yarn start
-```
-
-This will run the development server in your local host (http://localhost:3000)
-
-
-
-
-
-
-
 # 🚚 Setting up the project
 
 Prerequisites:- 
